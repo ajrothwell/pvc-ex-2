@@ -23,7 +23,7 @@ export default {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].js',
-    publicPath: '/',
+    publicPath: '/pe2/',
   },
   module: {
     rules: [

@@ -25,8 +25,8 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 const date = new Date();
 console.log('date:', date);
 
-import '../node_modules/phila-standards/dist/css/phila-app.min.css';
-import './styles.css';
+// import '../node_modules/phila-standards/dist/css/phila-app.min.css';
+// import './styles.css';
 
 const clientConfig = config;
 const baseConfigUrl = config.baseConfig;
